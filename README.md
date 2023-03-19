@@ -1,2 +1,2 @@
 # Leaky-Integrate-and-Fire-Model-LIF-model-
-Leaky-Integrate-and-Fire Model matlab code
+This is a matlab code to simulate the Leaky-Integrate-and-Fire Model
